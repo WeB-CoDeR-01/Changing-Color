@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: #202124;
+}
+
+.btn_div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50vh;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 25px;
+    font-family: Cascaida Mono;
+    border: none;
+    border-radius: 30px;
+    background: white;
+    color: black;
+}
